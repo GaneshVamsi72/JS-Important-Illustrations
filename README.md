@@ -20,7 +20,7 @@ These files are meant for:
 
 ### ✅ 1. Callbacks, Promises, and Async-Await
 - Clean and separate examples of:
-  - Callback functions
+  - Callback Hell
   - Chained `.then()` with Promises
   - `async` / `await` syntax
 - Shows how asynchronous code can look synchronous with `async`/`await`
